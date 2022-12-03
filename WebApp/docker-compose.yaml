@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  webapp:
+    image: docker.io/gazdiktomi/webapp:latest
+    ports:
+      - "8080:80"
+    
