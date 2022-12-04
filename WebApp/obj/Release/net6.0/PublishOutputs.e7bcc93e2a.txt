@@ -1,6 +1,0 @@
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\appsettings.Development.json
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\appsettings.json
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\WebApp.dll
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\WebApp.deps.json
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\WebApp.runtimeconfig.json
-D:\WS\Visual Studio 2022\WebApp\WebApp\app\publish\WebApp.pdb
