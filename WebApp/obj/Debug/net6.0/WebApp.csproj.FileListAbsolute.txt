@@ -29,3 +29,11 @@ D:\WS\Visual Studio 2022\WebApp\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.
 D:\WS\Visual Studio 2022\WebApp\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
 D:\WS\Visual Studio 2022\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
 D:\WS\Visual Studio 2022\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\appsettings.json
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.exe
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.deps.json
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.dll
+D:\WS\Visual Studio 2022\WebApp\bin\Debug\net6.0\WebApp.pdb

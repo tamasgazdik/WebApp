@@ -1,1 +1,0 @@
-dotnet run WebApp.csproj

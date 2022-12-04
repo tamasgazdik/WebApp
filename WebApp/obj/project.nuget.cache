@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ak9cp63HO2P3YkYBeEauFqSaq8/2552QMqmereq0t0As1JZNUf8z1/fdLLdpqqm3XFu84oov+bPKRhn47bC5LA==",
+  "dgSpecHash": "NtkXgs5CydDYHoKWMUzZjq72g/Dqod2W6XzvoAuwrU/cNy1u3lwqaVLAx9ta+8w6vpQ6ZJMfyzv6gQujalC0OA==",
   "success": true,
-  "projectFilePath": "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tamas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],

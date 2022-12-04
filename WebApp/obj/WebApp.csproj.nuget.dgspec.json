@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj": {}
+    "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj": {
+    "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\tamas\\.nuget\\packages\\",
-        "outputPath": "d:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\obj\\",
+        "outputPath": "D:\\WS\\Visual Studio 2022\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
